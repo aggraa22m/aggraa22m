@@ -1,37 +1,71 @@
-**Hello, World!** 👋
+# Hi there, I'm Ashish Aggrawal! 👋 
 
-I'm Ashish Aggrawal, a passionate and motivated individual making a career switch from the operations field to the exciting world of software development. With 12 years of work experience, I bring a unique blend of skills, discipline, and a fresh perspective to the coding realm.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/ashishaggrawal)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ashish22mar87@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](your-portfolio-url)
 
-🌱 **I’m currently learning**
+> Computer Science student passionate about AI/ML and Backend Development, with problem-solving experience to create impactful software solutions  🚀
 
-Currently, I am enrolled in the Bachelor of Computer Science (Honors) at Trent University, Ontario, Canada. I am actively deepening my understanding and skills in backend development with a focus on AI and ML.
+## 🎓 Current Journey
 
-•	Python: Mastering the language as a cornerstone for AI and ML development.
+- 📚 Pursuing Bachelor of Computer Science (Honors) at Trent University, Ontario, Canada
+- 🔍 Focusing on Backend Development, AI, and Machine Learning
+- 🌱 Building a strong foundation in Computer Science fundamentals
 
-•	Java: Exploring its versatility in backend development, particularly for enterprise applications and AI/ML integration.
+## 🛠️ Technical Learning Path
 
-•	C#: Learning its usage in backend development, especially within the context of the .NET framework and AI/ML applications.
+### Languages
+- Python 
+- Java 
+- C# 
+- C++ 
 
-•	Linear Algebra and Calculus: Strengthening my mathematical foundation, crucial for understanding and implementing complex algorithms in AI/ML.
+### Focus Areas
+- Backend Development 💻
+- AI/ML 🤖
 
-•	Data Structures and Algorithms: Building a strong grasp of fundamental algorithms and data structures for efficient problem-solving.
+### Core Subjects
+- Data Structures & Algorithms 📊
+- System Design 🏗️
+- Linear Algebra ➗
+- Calculus 📐
 
-•	System Design: Developing skills to architect scalable and reliable systems, crucial for building large-scale applications.
+## 💼 Professional Background
 
-I'm excited about the intersection of backend development and AI/ML, and I'm actively seeking projects and collaborations to apply and enhance my skills in this space.
+- 📊 12+ years of operations experience
+- 🎯 Expert in project management
+- 🤝 Strong team collaboration skills
+- 💡 Proven problem-solver
+- 📈 Track record of driving operational efficiency
 
-💼 **Professional Experience**
+## 🎯 Current Goals
 
-With over a decade of experience in operations, I have honed skills such as project management, problem-solving, and team collaboration. I'm excited to leverage this background in my software development journey.
+- Master backend development fundamentals
+- Build AI/ML projects
+- Contribute to open-source communities
+- Develop scalable applications
+- Network with fellow developers
 
-🚀 **My Goals**
-My primary goal is to become a proficient and well-rounded software developer. I am eager to contribute to open-source projects, collaborate with like-minded individuals, and continuously expand my knowledge in the rapidly evolving tech landscape.
+## 🤝 Let's Connect!
 
-🤝 **Open to Collaboration**
+- 🔭 I'm looking to collaborate on innovative projects
+- 💬 Open to participating in hackathons
+- 📫 Always excited to connect with fellow developers
+- ⚡ Passionate about learning and growing together
 
-I'm open to collaborating on projects, participating in hackathons, and connecting with fellow developers. 
+## 📊 GitHub Stats
 
-If you have an exciting opportunity or project idea, feel free to reach out.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aggraa22m&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
-Let's code together and build something amazing! 🚀
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aggraa22m&layout=compact&theme=tokyonight&hide_border=true)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aggraa22m&theme=tokyonight&hide_border=true)
+
+---
+<p align="center">
+  <i>Let's turn ideas into reality! Feel free to reach out for collaboration.</i>
+</p>
+
+<!--
+Quick Tip: Replace 'your-linkedin-url', 'your-email', and 'your-portfolio-url' with your actual information
+-->
