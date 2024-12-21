@@ -1,8 +1,5 @@
 # Hi there, I'm Ashish Aggrawal! 👋 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](www.linkedin.com/in/ashishaggrawal)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:ashish22mar87@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](your-portfolio-url)
 
 > Computer Science student passionate about AI/ML and Backend Development, with problem-solving experience to create impactful software solutions  🚀
 
