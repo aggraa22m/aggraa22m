@@ -46,7 +46,7 @@
 
 ---
 <p align="center">
-  <i>Let's turn ideas into reality! Feel free to reach out for collaboration.</i>
+  <i>Let's turn ideas into reality! </i>
 </p>
 
 <!--
