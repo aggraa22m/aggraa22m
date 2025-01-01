@@ -22,6 +22,23 @@
 ### Data Science & Libraries  
 ![Pandas Badge](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![NumPy Badge](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  ![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-%231572B6.svg?style=flat&logo=python&logoColor=white)  ![Scikit-learn Badge](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  
 
+### Mathematics  
+
+![Linear Algebra Badge](https://img.shields.io/badge/Linear%20Algebra-%231572B6?style=flat&logo=mathworks&logoColor=white)  
+- 📐 Matrix operations, Eigenvalues, Eigenvectors, and Transformations.  
+
+![Discrete Mathematics Badge](https://img.shields.io/badge/Discrete%20Mathematics-%23E34F26?style=flat&logo=tree&logoColor=white)  
+- 🔢 Logic, Set Theory, Graph Theory, and Combinatorics.  
+
+![Calculus Badge](https://img.shields.io/badge/Calculus-%230076D6?style=flat&logo=plotly&logoColor=white)  
+- 📊 Differentiation, Integration, and Multivariable Calculus.  
+
+![Statistics Badge](https://img.shields.io/badge/Statistics-%23FF9900?style=flat&logo=chartdotjs&logoColor=white)  
+- 📈 Descriptive and Inferential Statistics, Hypothesis Testing.  
+
+![Probability Badge](https://img.shields.io/badge/Probability-%237734A6?style=flat&logo=dice&logoColor=white)  
+- 🎲 Random Variables, Distributions, and Bayes' Theorem.  
+
 ### Tools & Platforms  
 ![Docker Badge](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)  ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)  ![Git Badge](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
 
