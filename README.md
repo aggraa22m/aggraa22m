@@ -10,12 +10,13 @@
 - 🌱 Building a strong foundation in Computer Science fundamentals
 
 
-<img align="right" alt="coding" width="400" src="https://github.com/aggraa22m/aggraa22m/blob/main/87f3f1425b217691da645e97dbb50d55.gif">
+
 ## 💻 Skills  
 
 ### Programming  
 ![C# Badge](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)  ![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white)  ![Python Badge](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  ![SQL Badge](https://img.shields.io/badge/SQL-%2300599C.svg?style=flat&logo=sqlite&logoColor=white)  
 
+<img align="right" alt="coding" width="400" src="https://github.com/aggraa22m/aggraa22m/blob/main/87f3f1425b217691da645e97dbb50d55.gif">
 
 ### Web Development  
 ![HTML Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![CSS Badge](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
