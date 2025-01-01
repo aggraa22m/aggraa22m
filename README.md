@@ -10,7 +10,7 @@
 - 🌱 Building a strong foundation in Computer Science fundamentals
 
 
-
+<img align="right" alt="coding" width="400" src="https://github.com/aggraa22m/aggraa22m/blob/main/87f3f1425b217691da645e97dbb50d55.gif">
 ## 💻 Skills  
 
 ### Programming  
