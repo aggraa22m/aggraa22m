@@ -1,7 +1,7 @@
 # Hi there, I'm Ashish Aggrawal! 👋 
 
 
-> Computer Science student passionate about AI/ML and Backend Development, with problem-solving experience to create impactful software solutions  🚀
+>** Computer Science student passionate about AI/ML and Backend Development, with problem-solving experience to create impactful software solutions**  🚀
 
 ## 🎓 Current Journey
 
