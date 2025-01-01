@@ -24,20 +24,15 @@
 
 ### Mathematics  
 
-![Linear Algebra Badge](https://img.shields.io/badge/Linear%20Algebra-%231572B6?style=flat&logo=mathworks&logoColor=white)  
-- 📐 Matrix operations, Eigenvalues, Eigenvectors, and Transformations.  
+![Linear Algebra Badge](https://img.shields.io/badge/Linear%20Algebra-%231572B6?style=flat&logo=mathworks&logoColor=white)  - 📐 Matrix operations, Eigenvalues, Eigenvectors, and Transformations.  
 
-![Discrete Mathematics Badge](https://img.shields.io/badge/Discrete%20Mathematics-%23E34F26?style=flat&logo=tree&logoColor=white)  
-- 🔢 Logic, Set Theory, Graph Theory, and Combinatorics.  
+![Discrete Mathematics Badge](https://img.shields.io/badge/Discrete%20Mathematics-%23E34F26?style=flat&logo=tree&logoColor=white)  - 🔢 Logic, Set Theory, Graph Theory, and Combinatorics.  
 
-![Calculus Badge](https://img.shields.io/badge/Calculus-%230076D6?style=flat&logo=plotly&logoColor=white)  
-- 📊 Differentiation, Integration, and Multivariable Calculus.  
+![Calculus Badge](https://img.shields.io/badge/Calculus-%230076D6?style=flat&logo=plotly&logoColor=white)  - 📊 Differentiation, Integration, and Multivariable Calculus.  
 
-![Statistics Badge](https://img.shields.io/badge/Statistics-%23FF9900?style=flat&logo=chartdotjs&logoColor=white)  
-- 📈 Descriptive and Inferential Statistics, Hypothesis Testing.  
+![Statistics Badge](https://img.shields.io/badge/Statistics-%23FF9900?style=flat&logo=chartdotjs&logoColor=white)  - 📈 Descriptive and Inferential Statistics, Hypothesis Testing.  
 
-![Probability Badge](https://img.shields.io/badge/Probability-%237734A6?style=flat&logo=dice&logoColor=white)  
-- 🎲 Random Variables, Distributions, and Bayes' Theorem.  
+![Probability Badge](https://img.shields.io/badge/Probability-%237734A6?style=flat&logo=dice&logoColor=white)  - 🎲 Random Variables, Distributions, and Bayes' Theorem.  
 
 ### Tools & Platforms  
 ![Docker Badge](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)  ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)  ![Git Badge](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
