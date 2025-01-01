@@ -50,14 +50,6 @@
 - 📫 Always excited to connect with fellow developers
 - ⚡ Passionate about learning and growing together
 
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aggraa22m&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aggraa22m&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aggraa22m&theme=tokyonight&hide_border=true)
-
 ---
 <p align="center">
   <i>Let's turn ideas into reality! Feel free to reach out for collaboration.</i>
