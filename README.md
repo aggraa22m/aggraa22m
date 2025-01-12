@@ -51,6 +51,3 @@
   <i>Let's turn ideas into reality! </i>
 </p>
 
-<!--
-Quick Tip: Replace 'your-linkedin-url', 'your-email', and 'your-portfolio-url' with your actual information
--->
