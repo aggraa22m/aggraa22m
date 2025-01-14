@@ -39,7 +39,7 @@
 ### Tools & Platforms  
 ![Docker Badge](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)  ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)  ![Git Badge](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect!!
 
 - 🔭 I'm looking to collaborate on innovative projects
 - 💬 Open to participating in hackathons
