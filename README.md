@@ -18,13 +18,13 @@
 
 
 
-### Web Development  
+### Web Development: 
 ![HTML Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  ![CSS Badge](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 
-### Data Science & Libraries  
+### Data Science & Libraries: 
 ![Pandas Badge](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![NumPy Badge](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  ![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-%231572B6.svg?style=flat&logo=python&logoColor=white)  ![Scikit-learn Badge](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  
 
-### Mathematics  
+### Mathematics:
 
 ![Linear Algebra Badge](https://img.shields.io/badge/Linear%20Algebra-%231572B6?style=flat&logo=mathworks&logoColor=white)  - 📐 Matrix operations, Eigenvalues, Eigenvectors, and Transformations.  
 
@@ -36,7 +36,7 @@
 
 ![Probability Badge](https://img.shields.io/badge/Probability-%237734A6?style=flat&logo=dice&logoColor=white)  - 🎲 Random Variables, Distributions, and Bayes' Theorem.  
 
-### Tools & Platforms  
+### Tools & Platforms: 
 ![Docker Badge](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)  ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)  ![Git Badge](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
 
 ## 🤝 Let's Connect!!
