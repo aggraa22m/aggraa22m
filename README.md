@@ -3,7 +3,7 @@
 
  Computer Science student passionate about AI/ML and Backend Development, with problem-solving experience to create impactful software solutions 🚀
 
-## 🎓 Current Journey!!
+## 🎓 Current Journey
 
 - 📚 Pursuing Bachelor of Computer Science (Honors) at Trent University, Ontario, Canada
 - 🔍 Focusing on Backend Development, AI, and Machine Learning
