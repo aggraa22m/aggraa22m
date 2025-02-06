@@ -36,7 +36,7 @@
 
 ![Probability Badge](https://img.shields.io/badge/Probability-%237734A6?style=flat&logo=dice&logoColor=white)  - 🎲 Random Variables, Distributions, and Bayes' Theorem.  
 
-### Tools & Platforms
+### Tools & Platforms!!
 ![Docker Badge](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)  ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)  ![Git Badge](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
 
 ## 🤝 Let's Connect
