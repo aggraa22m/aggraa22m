@@ -18,7 +18,7 @@
 
 
 
-### Web Development!!
+### Web Development
 ![HTML Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)![CSS Badge](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 
 ### Data Science & Libraries: 
