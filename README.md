@@ -24,7 +24,7 @@
 ### Data Science & Libraries: 
 ![Pandas Badge](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![NumPy Badge](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  ![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-%231572B6.svg?style=flat&logo=python&logoColor=white)  ![Scikit-learn Badge](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  
 
-### Mathematics
+### Mathematics!!
 
 ![Linear Algebra Badge](https://img.shields.io/badge/Linear%20Algebra-%231572B6?style=flat&logo=mathworks&logoColor=white)  - 📐 Matrix operations, Eigenvalues, Eigenvectors, and Transformations.  
 
