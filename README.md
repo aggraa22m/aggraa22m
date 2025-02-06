@@ -1,4 +1,4 @@
-# Hi there, I'm Ashish Aggrawal!👋 
+# Hi there, I'm Ashish Aggrawal👋 
 
 
  Computer Science student passionate about AI/ML and Backend Development, with problem-solving experience to create impactful software solutions 🚀
@@ -21,7 +21,7 @@
 ### Web Development
 ![HTML Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)![CSS Badge](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
 
-### Data Science & Libraries: 
+### Data Science & Libraries
 ![Pandas Badge](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![NumPy Badge](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  ![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-%231572B6.svg?style=flat&logo=python&logoColor=white)  ![Scikit-learn Badge](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  
 
 ### Mathematics
