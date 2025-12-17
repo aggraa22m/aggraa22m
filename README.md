@@ -1,53 +1,57 @@
-# Hi there, I'm Ashish Aggrawal👋 
+# Hi there, I'm Ashish Aggrawal 👋
 
-
- Computer Science student passionate about AI/ML and Backend Development, with problem-solving experience to create impactful software solutions 🚀
-
-## 🎓 Current Journey!!
-
-- 📚 Pursuing Bachelor of Computer Science (Honors) at Trent University, Ontario, Canada
-- 🔍 Focusing on Backend Development, AI, and Machine Learning
-- 🌱 Building a strong foundation in Computer Science fundamentals
-
-
-
-## 💻 Skills
-
-### Programming  
-![C# Badge](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)  ![Java Badge](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=flat&logo=cplusplus&logoColor=white)  ![Python Badge](https://img.shields.io/badge/Python-%2314354C.svg?style=flat&logo=python&logoColor=white)![JavaScript Badge](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) ![SQL Badge](https://img.shields.io/badge/SQL-%2300599C.svg?style=flat&logo=sqlite&logoColor=white)  
-
-
-
-### Web Development
-![HTML Badge](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)![CSS Badge](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white) 
-
-### Data Science & Libraries
-![Pandas Badge](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)  ![NumPy Badge](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat&logo=numpy&logoColor=white)  ![Matplotlib Badge](https://img.shields.io/badge/Matplotlib-%231572B6.svg?style=flat&logo=python&logoColor=white)  ![Scikit-learn Badge](https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)  
-
-### Mathematics
-
-![Linear Algebra Badge](https://img.shields.io/badge/Linear%20Algebra-%231572B6?style=flat&logo=mathworks&logoColor=white)  - 📐 Matrix operations, Eigenvalues, Eigenvectors, and Transformations.  
-
-![Discrete Mathematics Badge](https://img.shields.io/badge/Discrete%20Mathematics-%23E34F26?style=flat&logo=tree&logoColor=white)  - 🔢 Logic, Set Theory, Graph Theory, and Combinatorics.  
-
-![Calculus Badge](https://img.shields.io/badge/Calculus-%230076D6?style=flat&logo=plotly&logoColor=white)  - 📊 Differentiation, Integration, and Multivariable Calculus.  
-
-![Statistics Badge](https://img.shields.io/badge/Statistics-%23FF9900?style=flat&logo=chartdotjs&logoColor=white)  - 📈 Descriptive and Inferential Statistics, Hypothesis Testing.  
-
-![Probability Badge](https://img.shields.io/badge/Probability-%237734A6?style=flat&logo=dice&logoColor=white)  - 🎲 Random Variables, Distributions, and Bayes' Theorem.  
-
-### Tools & Platforms!!
-![Docker Badge](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white)  ![Kubernetes Badge](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=flat&logo=kubernetes&logoColor=white)  ![Git Badge](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)  
-
-## 🤝 Let's Connect
-
-- 🔭 I'm looking to collaborate on innovative projects
-- 💬 Open to participating in hackathons
-- 📫 Always excited to connect with fellow developers
-- ⚡ Passionate about learning and growing together
+Computer Science student passionate about **Operating Systems, Kernel Designing, AI/ML, and Quant Development**, with problem-solving experience to create impactful software solutions 🚀
 
 ---
-<p align="center">
-  <i>Let's turn ideas into reality! </i>
-</p>
 
+### 🎓 Current Journey!!
+
+* 📚 Pursuing **Bachelor of Computer Science (Honors)** at **Trent University**, Ontario, Canada
+* 🔍 Currently deep-diving into Systems Programming (C++) and Quant Algorithms (Python).
+* 🌱 Building a strong foundation in Computer Science fundamentals
+
+---
+
+### 💻 Skills
+
+**Programming**
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Web Development**
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Data Science & Libraries**
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+**Tools & Platforms**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+### 🧮 Mathematics
+
+* 📐 **Linear Algebra:** Matrix operations, Eigenvalues, Eigenvectors, and Transformations.
+* 🔢 **Discrete Math:** Logic, Set Theory, Graph Theory, and Combinatorics.
+* 📊 **Calculus:** Differentiation, Integration, and Multivariable Calculus.
+* 📈 **Statistics:** Descriptive and Inferential Statistics, Hypothesis Testing.
+* 🎲 **Probability:** Random Variables, Distributions, and Bayes' Theorem.
+
+---
+
+### 🤝 Let's Connect
+
+* 🔭 I'm looking to collaborate on innovative projects.
+* 💬 Open to participating in hackathons.
+* 📫 Always excited to connect with fellow developers.
+* ⚡ Passionate about learning and growing together.
+
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](INSERT_YOUR_LINKEDIN_URL_HERE)
